@@ -1,5 +1,6 @@
 
 **Original Code Link: https://github.com/AminParvaneh/alpha_mix_active_learning**
+
 (Changed some codes in the original repo to carry out several experiments)
 
 # Active Learning by Feature Mixing (ALFA-Mix)
