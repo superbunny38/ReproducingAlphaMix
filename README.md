@@ -1,3 +1,6 @@
+
+**Original Code Link: https://github.com/AminParvaneh/alpha_mix_active_learning**
+
 # Active Learning by Feature Mixing (ALFA-Mix)
 PyTorch implementation of ALFA-Mix. For details, read the paper [Active Learning by Feature Mixing](https://arxiv.org/abs/2203.07034), which is accepted in CVPR 2022.
 
